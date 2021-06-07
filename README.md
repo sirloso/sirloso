@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=sirloso)](https://github.com/sirloso/github-profile-trophy)
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sriloso&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sirloso&count_private=true&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirloso&theme=dracula&langs_count=15&layout=compact&hide=php" />
 </div>
